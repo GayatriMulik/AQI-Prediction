@@ -1,1 +1,3 @@
 # AQI-Prediction
+Air Quality Index prediction
+Machine Learning model in which i had used diiferent algorithm to predict air quality based on given data. I have done health risk analysis by focusing on the highest pollutant level (like PM2.5, NO2, etc.), which makes it easier to understand.To assess health risks, I created a score that combines air quality and population size, so cities with more people and worse air quality are highlighted. I also normalized the population data to ensure fairness in the risk calculations. The analysis was done city by city, with visualizations to show which cities have the highest health risks.
